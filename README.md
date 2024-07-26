@@ -12,12 +12,15 @@ User-friendly Interface: Built with Material-UI for a modern look and feel.
 Usage
 
 Open the application:
+
 Access the code editor in your web browser.
 
 Write and edit code:
+
 Use the editor to write your HTML, CSS, and JavaScript code.
 
 Preview your code:
+
 See the live preview of your code as you write.
 
 Technologies Used
